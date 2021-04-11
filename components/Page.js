@@ -13,22 +13,18 @@ export default function Page({ children, title }) {
 				* {
 					box-sizing: border-box;
 				}
-
 				html {
 					background-color: black;
 					color: white;
 					font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell,
 						'Open Sans', 'Helvetica Neue', sans-serif;
 				}
-
 				body {
 					margin: 0;
 				}
-
 				a {
 					color: #1687e9;
 				}
-
 				.container {
 					max-width: 400px;
 					width: 90%;
