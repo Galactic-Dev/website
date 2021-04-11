@@ -15,7 +15,7 @@
 		"apollo-link-http": "^1.5.17",
 		"graphql": "^15.3.0",
 		"graphql-tag": "^2.10.4",
-		"next": "^9.5.1",
+		"next": "^10.1.3",
 		"nookies": "^2.3.2",
 		"react": "^16.13.1",
 		"react-dom": "^16.13.1",
@@ -23,7 +23,7 @@
 	},
 	"devDependencies": {
 		"ar": "^0.0.1",
-		"axios": "^0.19.2",
+		"axios": ">=0.21.1",
 		"gunzip-maybe": "^1.4.2",
 		"tar-stream": "^2.1.2"
 	}
