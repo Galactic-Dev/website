@@ -29,6 +29,7 @@ exports.packages = [
     'https://github.com/Galactic-Dev/website/releases/download/yulkari0.0.1-0.0.3/com.galacticdev.yulkari_0.0.3_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/14pip1.0/com.galacticdev.14pip_1.0_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-9/com.galacticdev.isponsorblock_1.0-9_iphoneos-arm.deb',
+    'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-10/com.galacticdev.isponsorblock_1.0-10_iphoneos-arm.deb',
 ]
 
 exports.icons = {
