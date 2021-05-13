@@ -5,7 +5,7 @@ export default function Kumquat() {
                 <Depiction name="Kumquat" github="https://github.com/Galactic-Dev/Kumquat" subtitle="Customize your lockscreen music player on iOS 14.2+">
 			Features:
 <ul>
-    <li>iChoose between 4 main styles (Normal, Large, Compact, No Scrubber, and No Volume)</li>
+    <li>Choose between 4 main styles (Normal, Large, Compact, No Scrubber, and No Volume)</li>
     <li>Have separate layouts for when you have notifications and don't have notifications</li>
     <li>Automatically applying settings with no respring required for anything</li>
     <li>Custom presets with the following options:</li>
