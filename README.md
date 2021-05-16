@@ -1,4 +1,3 @@
-THIS REPO ISN'T SUPPOSED TO BE USED YET
 # Repo on Vercel
 
 This is a Cydia/APT repository template built for the [Vercel platform](https://vercel.com/). This is a [Next.js](https://nextjs.org/) project.
