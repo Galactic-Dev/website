@@ -3,6 +3,13 @@ import Depiction from '../components/Depiction'
 export default function Kumquat() {
         return (
                 <Depiction name="Kumquat" github="https://github.com/Galactic-Dev/Kumquat" subtitle="Customize your lockscreen music player on iOS 14.2+">
+			Changelog:
+<ul>
+	<li>Hide Quick Actions Button Option</li>
+	<li>Change Header Text Alignment</li>
+	<li>Hide Route Label</li>
+</ul>
+<br/>
 			Features:
 <ul>
     <li>Choose between 4 main styles (Normal, Large, Compact, No Scrubber, and No Volume)</li>
