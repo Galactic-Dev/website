@@ -33,6 +33,7 @@ exports.packages = [
     'https://github.com/Galactic-Dev/website/releases/download/kumquat1.0/com.galacticdev.kumquat_1.0_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/ytnoshortsbutton1.0/com.galacticdev.ytnoshortsbutton_1.0_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/kumquat1.1/com.galacticdev.kumquat_1.1_iphoneos-arm.deb',
+    'https://github.com/Galactic-Dev/website/releases/download/bigytminiplayer1.0/com.galacticdev.bigytminiplayer_1.0_iphoneos-arm.deb',
 ]
 
 exports.icons = {
