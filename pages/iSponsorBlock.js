@@ -5,7 +5,9 @@ export default function iSponsorBlock() {
 		<Depiction name="iSponsorBlock" github="https://github.com/Galactic-Dev/iSponsorBlock" subtitle="This tweak is powered by the SponsorBlock api">
 			iSponsorBlock | Automatically skip annoying sponsorships in YouTube videos
 
-			This update makes iSponsorBlock functional in the most recent YouTube version.
+			Changelog: 
+				- 1.0-12: Fixes sponsor segments not appearing in YouTube version 17.03.2 
+				- 1.0-11: Fixes sponsor segments not showing in YouTube versions 16.22.5 +. Fixes iSponsorBlock menu not opening in fullscreen. Fixes donation buttons in settings.
 		</Depiction>
 	)
 }

@@ -36,6 +36,7 @@ exports.packages = [
     'https://github.com/Galactic-Dev/website/releases/download/bigytminiplayer1.0/com.galacticdev.bigytminiplayer_1.0_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-11/com.galacticdev.isponsorblock_1.0-11_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/bigytminiplaye1.0-1/com.galacticdev.bigytminiplayer_1.0-1_iphoneos-arm.deb',
+    'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-12/com.galacticdev.isponsorblock_1.0-12_iphoneos-arm.deb',	
 ]
 
 exports.icons = {
