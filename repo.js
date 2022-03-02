@@ -39,7 +39,7 @@ exports.packages = [
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-12/com.galacticdev.isponsorblock_1.0-12_iphoneos-arm.deb',	
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-13/com.galacticdev.isponsorblock_1.0-13_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/notfinical1.0.3/com.galacticdev.notfinical_1.0.3_iphoneos-arm.deb',
-    'https://github.com/Galactic-Dev/website/releases/download/isponsorblocklegacy1.0-13/com.galacticdev.isponsorblock_1.0-13.ios12beta-1+debug_iphoneos-arm.deb',
+    'https://github.com/Galactic-Dev/website/releases/download/isponsorblocklegacy1.0-13/com.galacticdev.isponsorblock_1.0-13.ios12beta_iphoneos-arm.deb',
 ]
 
 exports.icons = {
