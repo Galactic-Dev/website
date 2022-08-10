@@ -42,6 +42,7 @@ exports.packages = [
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblocklegacy1.0-13b1/com.galacticdev.isponsorblocklegacy_1.0-13.ios12b1_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-14/com.galacticdev.isponsorblock_1.0-14_iphoneos-arm.deb',
     'https://github.com/Galactic-Dev/website/releases/download/isponsorblocklegacy1.0-13b2/com.galacticdev.isponsorblocklegacy_1.0-13.ios12b2_iphoneos-arm.deb',
+    'https://github.com/Galactic-Dev/website/releases/download/isponsorblock1.0-15/com.galacticdev.isponsorblock_1.0-15_iphoneos-arm.deb',
 ]
 
 exports.icons = {

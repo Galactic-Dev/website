@@ -6,6 +6,7 @@ export default function iSponsorBlock() {
 			iSponsorBlock | Automatically skip annoying sponsorships in YouTube videos
 <br/>
 			Changelog: <br/>
+				- 1.0-15: Fix crash caused by a new YouTube update <br/>
 				- 1.0-14: Fix crash caused by a new YouTube update <br/>
 				- 1.0-13: Fix visual bug with sponsor segments <br/>
 				- 1.0-12: Fixes sponsor segments not appearing in YouTube version 17.03.2 <br/>
